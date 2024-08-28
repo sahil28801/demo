@@ -1,4 +1,4 @@
 # demo
 this is first repository
 </br>
-Author:Sahil jain
+Author:Sahil (indus university)
